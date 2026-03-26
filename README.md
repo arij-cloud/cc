@@ -78,18 +78,14 @@
 
   <div class="container">
     <h1>Join us 💜</h1>
-
- 
     <form action="https://formspree.io/f/mojpvjpj" method="POST">
       <input type="text" name="name" placeholder="Your name" required>
       <input type="email" name="email" placeholder="Your email" required>
       <button type="submit">Send ✨</button>
     </form>
-
     <div class="footer">
       Made with 💙
     </div>
   </div>
-
 </body>
 </html>
